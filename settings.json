@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vtcolany.aternos.me",
-    "port": 27279,
+    "ip": "strawberry.fps.ms:25662",
+    "port": 25662,
     "version": "",
     "try-creative": false
   },
